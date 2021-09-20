@@ -1,0 +1,4 @@
+#Sun Sep 19 22:54:02 EDT 2021
+base.0=/Users/jeongmin/AndroidStudioProjects/Android-Java-Tutorials/DroidCafe/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
